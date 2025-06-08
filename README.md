@@ -1,7 +1,7 @@
 
-# 🚀 Project Awesome
+# 🚀 Project rizal dev
 
-![banner]()
+![banner](https://h.top4top.io/p_3350vieai0.png)
 
 ## ✨ Deskripsi
 
