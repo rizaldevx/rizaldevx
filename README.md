@@ -1,11 +1,11 @@
 
 # 🚀 Project Awesome
 
-![banner](https://user-images.githubusercontent.com/your-image/banner.png)
+![banner]()
 
 ## ✨ Deskripsi
 
-Project Awesome adalah solusi modern untuk [jelaskan masalah yang diselesaikan project ini atau tujuan utamanya]. Dirancang dengan teknologi terbaru dan fokus pada kemudahan penggunaan serta performa maksimal.
+Project rizal dev adalah solusi modern untuk pengembangan website develpment Dirancang dengan teknologi terbaru dan fokus pada kemudahan penggunaan serta performa maksimal.
 
 ---
 
